@@ -1,3 +1,1 @@
-Meu nome é 
-<sup>Gustavo</
-sup>text
+Meu nome é <sup>Gustavo</sup>text
