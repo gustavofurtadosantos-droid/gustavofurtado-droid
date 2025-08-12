@@ -1,1 +1,1 @@
-Meu nome é <sup>Gustavo</sup>text
+	This is a <sub>subscript</sub> text
