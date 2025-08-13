@@ -4,6 +4,4 @@
 
 -minha idade é **15**
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![whatever-little-girl-drinking]
-
-
+![](https://tenor.com/pt-BR/view/cat-stare-angry-cat-funny-cat-memes-gif-14595486679217135725)
